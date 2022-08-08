@@ -27,8 +27,8 @@ Ellena is a web application designed to provide high-quality online shopping sol
 
 	4. Customer
 		- Browse/purchase: 
-			+ Search for clothes
-			+ Make an order easier with persistent cart
+			- Search for clothes
+			- Make an order easier with persistent cart
 
 
 		- Online payment: Purchase faster with online payment solutions
