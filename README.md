@@ -45,4 +45,5 @@ Ellena is a web application designed to provide high-quality online shopping sol
 	- Google Sign-in
 3. My responsibility:
 	[Backlog](https://github.com/duy-lvl/ellena/blob/main/role.pdf)
-	 For more detail, please visit [Product backlog](https://github.com/duy-lvl/ellena/blob/main/Ellena%20backlog.xlsx)
+
+	For more detail, please visit [Product backlog](https://github.com/duy-lvl/ellena/blob/main/Ellena%20backlog.xlsx)
