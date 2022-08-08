@@ -5,7 +5,7 @@
 Ellena is a web application designed to provide high-quality online shopping solutions for the brand and buyers over the internet on a single site. The software will allow clothing brands to build an online store where customers can browse and purchase clothes without visiting the store in person, track inventory, and follow up on the latest statistics.
 
 ## Software design
-- 4 main roles:
+1. 4 main roles:
 	1. Administrator
 		- Account management: Manage existing accounts in the system
 
@@ -33,4 +33,15 @@ Ellena is a web application designed to provide high-quality online shopping sol
 
 		- Online payment: Purchase faster with online payment solutions
 
-
+2. Technologies used
+	- JSP/Servlet
+	- MVC2
+	- Tomcat
+	- Bootstrap
+	- jQuery
+	- MS SQL
+	- MoMo
+	- VNPay
+	- Google Sign-in
+3. My responsibility:
+	[Backlog](#)
