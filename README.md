@@ -63,7 +63,8 @@ For more detail, please visit [Product backlog](https://github.com/duy-lvl/ellen
 ![home](https://github.com/duy-lvl/ellena/blob/main/screenshots/home5.png)
 
 - Shopping:
-![](![](https://github.com/duy-lvl/ellena/blob/main/screenshots/shopping1.png))
+
+![](https://github.com/duy-lvl/ellena/blob/main/screenshots/shopping1.png)
 
 - Customer's cart:
 
