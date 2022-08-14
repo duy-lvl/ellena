@@ -50,7 +50,7 @@ Ellena is a web application designed to provide high-quality online shopping sol
 	- Check out
 
 
-	For more detail, please visit [Product backlog](https://github.com/duy-lvl/ellena/blob/main/Ellena%20backlog.xlsx)
+For more detail, please visit [Product backlog](https://github.com/duy-lvl/ellena/blob/main/Ellena%20backlog.xlsx)
 
 ## Screenshots
 
