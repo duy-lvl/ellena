@@ -1,4 +1,4 @@
-# Ellena: Online women fashion shop
+# Ellena: Online women fashion shop: 
 ![Ellena logo](https://github.com/duy-lvl/ellena/blob/main/web/img/ellena-logo.png)
 
 ## Introduction
@@ -97,3 +97,7 @@ For more detail, please visit [Product backlog](https://github.com/duy-lvl/ellen
 ![manager](https://github.com/duy-lvl/ellena/blob/main/screenshots/manager-order2.png)
 ![manager](https://github.com/duy-lvl/ellena/blob/main/screenshots/manager-order3.png)
 ![manager](https://github.com/duy-lvl/ellena/blob/main/screenshots/manager-product.png)
+
+
+© 2022 duy-lvl
+May 2022 - July 2022
