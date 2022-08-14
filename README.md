@@ -99,5 +99,4 @@ For more detail, please visit [Product backlog](https://github.com/duy-lvl/ellen
 ![manager](https://github.com/duy-lvl/ellena/blob/main/screenshots/manager-product.png)
 
 
-© 2022 duy-lvl
-May 2022 - July 2022
+© 2022 duy-lvl | May 2022 - July 2022
