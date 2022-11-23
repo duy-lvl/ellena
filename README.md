@@ -33,15 +33,7 @@ Ellena is a web application designed to provide high-quality online shopping sol
 		- Online payment: Purchase faster with online payment solutions
 
 2. Technologies used
-	- JSP/Servlet
-	- MVC2
-	- Tomcat
-	- Bootstrap
-	- jQuery
-	- MS SQL
-	- MoMo
-	- VNPay
-	- Google Sign-in
+	![technologies](https://github.com/duy-lvl/ellena/blob/main/screenshots/technologies-used.png)
 
 ## I am in charge of:
 	- Manage orders: view, update
